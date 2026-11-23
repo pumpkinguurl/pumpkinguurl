@@ -1371,7 +1371,7 @@ html {
     height: 100%;                           /* la página mide exactamente lo que la ventana */
     overflow: hidden;                       /* sin barras de scroll: aquí se recorre arrastrando */
     color: var(--blanco);                   /* texto blanco */
-    background-color: var(--verde);  /* fondo oscuro, igual que el portafolio */
+    background-color: var(--blanco);  
 }
 
 /* "Portafolio" y "Galería" en el menú: blancos sobre el fondo oscuro */
@@ -1514,7 +1514,7 @@ html {
 }
 
 .visor::backdrop {
-    background-color: rgba(184, 214, 78, 1); /* el resto de la página se oscurece (#221F1F) */
+    background-color: rgba(184, 214, 78, 1); /* página con fondo verde */
 }
 
 .visor-foto {
@@ -1558,3 +1558,4 @@ html {
         width: 95%; /* el visor casi a todo el ancho */
     }
 }
+
