@@ -1371,7 +1371,7 @@ html {
     height: 100%;                           /* la página mide exactamente lo que la ventana */
     overflow: hidden;                       /* sin barras de scroll: aquí se recorre arrastrando */
     color: var(--blanco);                   /* texto blanco */
-    background-color: var(--fondo-oscuro);  /* fondo oscuro, igual que el portafolio */
+    background-color: var(--verde);  /* fondo oscuro, igual que el portafolio */
 }
 
 /* "Portafolio" y "Galería" en el menú: blancos sobre el fondo oscuro */
